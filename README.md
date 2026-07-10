@@ -4,6 +4,10 @@ A small Python app that finds **dated events happening in the next 7 days** near
 
 Uses the **Ticketmaster** API to find dated events.
 
+## Showcase Presentation
+
+📄 [View project presentation (PDF)](presentation.pdf)
+
 ## Setup
 
 1. **Install dependencies**
